@@ -1,0 +1,19 @@
+{
+  "name": "my-leisure-pass-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lpg:open:cypress": "cypress open --browser firefox"
+  },
+  "keywords": [],
+  "author": "ArtoM",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.2.0"
+  },
+  "dependencies": {
+    "diff": "^5.0.0",
+    "lodash": "^4.17.21",
+    "mocha": "^8.4.0"
+  }
+}

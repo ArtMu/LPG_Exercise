@@ -1,0 +1,114 @@
+[
+  {
+    "rating": 3.94,
+    "title": "9-11 Memorial & Museum",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 27214
+  },
+  {
+    "rating": 5,
+    "title": "American Museum of Natural History",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 765
+  },
+  {
+    "rating": 4.65,
+    "title": "Brooklyn Museum",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 153
+  },
+  {
+    "rating": 0.19,
+    "title": "Ground Zero Museum Workshop",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 256
+  },
+  {
+    "rating": 0.37,
+    "title": "Guggenheim Museum",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 257
+  },
+  {
+    "rating": 1.85,
+    "title": "Intrepid Sea, Air, and Space Museum",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 290
+  },
+  {
+    "rating": 1.88,
+    "title": "Metropolitan Museum of Art",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 352
+  },
+  {
+    "rating": 4.2,
+    "title": "Museum of Arts and Design",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 31480
+  },
+  {
+    "rating": 3.26,
+    "title": "Museum of Ice Cream",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 34613
+  },
+  {
+    "rating": 3.3,
+    "title": "Museum of Modern Art",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 378
+  },
+  {
+    "rating": 3.5,
+    "title": "Museum of the City of New York",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 27867
+  },
+  {
+    "rating": 3.92,
+    "title": "New York Historical Society Museum",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 12307
+  },
+  {
+    "rating": 1.49,
+    "title": "New York Transit Museum",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 31470
+  },
+  {
+    "rating": 2.17,
+    "title": "Skyscraper Museum",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 31478
+  },
+  {
+    "rating": 3.5,
+    "title": "South Street Seaport Museum",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 31473
+  },
+  {
+    "rating": 1.94,
+    "title": "Staten Island Childrens Museum",
+    "cityId": "1",
+    "type": "MUSEUM",
+    "id": 31472
+  }
+]
